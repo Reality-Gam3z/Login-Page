@@ -1,5 +1,5 @@
 function redirectOne(){
-	location.replace("https://www.realitygam3z.ml")
+	location.replace("www.realitygam3z.tk")
 }
 
 let prism = document.querySelector(".rec-prism");
